@@ -1,0 +1,1 @@
+{"hidden_sizes": 200, "learning_rate": 0.01, "replay_fifo": 5, "replay_sampling": 10, "size_replay_fifo": 1000, "size_replay_sampling": 1000}

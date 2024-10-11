@@ -1,0 +1,1 @@
+{"instant_average_accuracy": [0.7, 0.6, 0.5666666666666667, 0.5666666666666667, 0.5666666666666667, 0.5666666666666667], "average_accuracy": 0.5944444444444444, "instant_backward_transfer": ["NaN", 0.0, 0.0, 0.0, 0.0, 0.0], "backward_transfer": 0.0, "instant_forward_transfer": [0.0, 0.0, "NaN", "NaN", "NaN", "NaN"], "forward_transfer": 0.0, "frugality_score": 0.5938694295019276}
